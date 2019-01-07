@@ -1,8 +1,7 @@
 {
-  "name": "gatsby-starter-hero-blog",
-  "version": "2.0.0",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
-  "license": "MIT",
+  "name": "petter.text",
+  "version": "0.1.0",
+  "author": "Petter Hareim <phareim@gmail.com>",
   "dependencies": {
     "antd": "^3.7.0",
     "fontfaceobserver": "^2.0.13",
@@ -54,7 +53,9 @@
     "yaml-loader": "^0.5.0"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "writing",
+    "text"
   ],
   "scripts": {
     "build": "gatsby build",

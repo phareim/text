@@ -1,3 +1,7 @@
+# Text
+
+... is based in the Gatsby Hero Blog. A place to write things, and put them online.
+
 # HeroBlog
 
 A [GatsbyJS](https://www.gatsbyjs.org/) blog starter. <br /><br />
